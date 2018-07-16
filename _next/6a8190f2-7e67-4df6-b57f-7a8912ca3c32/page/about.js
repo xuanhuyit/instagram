@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/about",function(){return{page:webpackJsonp([11],{293:function(e,t,n){e.exports=n(294)},294:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n(0),o=n.n(u),r=n(22);n(28);t.default=function(){return o.a.createElement(r.a,{title:"About"},o.a.createElement("h5",null,"About work"))}}},[293]).default}});
